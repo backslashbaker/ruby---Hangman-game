@@ -38,3 +38,8 @@ if guesses == word
 else lives == 0
   puts "GAME OVER!"
 end
+
+
+def start
+  puts "Welcome to Command line hangman"
+end
